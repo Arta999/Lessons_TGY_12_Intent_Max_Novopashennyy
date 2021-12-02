@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Тест Intent</string>
+    <string name="next_activity">Следующая активность</string>
+    <string name="hello">Привет</string>
+    <string name="back_activity">Назад</string>
+    <string name="activity_browser">Открыть браузер</string>
+    <string name="activity_tel">Позвонить Деду Морозу</string>
+    <string name="activity_image">Сделать фото</string>
+</resources>
